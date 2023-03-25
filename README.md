@@ -1,7 +1,7 @@
 <h1 align='center'>  Hi There, I'm Koray Kaya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='center'>
-  <a href="https://medium.com/koray00"><img src="https://img.shields.io/badge/medium-0f0f0f?style=for-the-badge&logo=medium&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://medium.com/@koray00"><img src="https://img.shields.io/badge/medium-0f0f0f?style=for-the-badge&logo=medium&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/koray00/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:i.korayykaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4.svg?&style=for-the-badge&logo=googlet%20gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br>
