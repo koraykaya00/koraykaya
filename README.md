@@ -31,3 +31,5 @@
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/koraykaya00/count.svg" height = 20px />
 </p>
+                                                                                                                                       
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)                                                                                                  
