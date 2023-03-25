@@ -4,16 +4,16 @@ Hi <img src="https://user-images.githubusercontent.com/53148314/120832912-d75769
 Junior FrontEnd and React Native Developer
 -----------------------------
 
-Nowadays I am trying to be a Full Stack Developer and Game Developer 🙂
+Nowadays I am trying to be a Full Stack Developer 🙂
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [MyLinkedIn](http://linkedin.com/in/mirza-can-cicekci)
-* ✉️  You can contact me at [cicekcimirzacan@gmail.com](mailto:cicekcimirzacan@gmail.com)
-* ✒️  You can read some of my articles in [Medium](https://medium.com/@mirzacancicekci) 
-* 🧠  I'm learning Android Studio and DataScience with Python
+* 🖥️  See my portfolio at [MyLinkedIn](http://linkedin.com/in/koraykaya00)
+* ✉️  You can contact me at [cicekcimirzacan@gmail.com](mailto:i.korayykaya@gmail.com)
+* ✒️  You can read some of my articles in [Medium](https://medium.com/@koray00) 
+* 🧠  I'm learning React.js and Adndroid App with React Native
 
 <a href="https://www.github.com/mirzacckc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mirzacckc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/koraykaya00?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
